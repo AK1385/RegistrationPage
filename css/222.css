@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.45;
+    font-size: 18px;
+    padding: 16px 16px 0 16px;
+    text-align: center;}
+
+.header{
+    background: url("../images/fons111.png") center top / 1918px 1080px no-repeat;}
+
+
+
+h1 {
+    top: 4500px;
+    left: 200px;
+    }
+
+
+video {background: #c7b39b url("../images/video.png")no-repeat left;color: #fff; /* Цвет текста */}
+
+
+ul {
+    list-style-image: url("../images/chevron-right.png");
+
+}
+
+ol {
+    list-style-image: url("../images/heart.png");
+    color:red;}
+
+
+#footer { background-position: center bottom;
+    background-size: 1918px 200px;
+
+    padding: 250px; /* Поля вокруг текста */
+    background: rgb(39,61,80);
+    color: rgb(254,253,253);
+    width: 100%;
+    text-align: center;
+    height: 205px;
+    font:55pt TimesNewRoman, serif;
+
+
+}
+}
+
+.p {background-position: center;
+
+
+    width: 970px;
+    height: 40px;
+    color: rgb(254,253,253); /* Цвет текста */
+}
+
+</style>
+
+
+
+
+
+  header {
+      height: 405px; /* Высота шапки */
+      background: url(images/header-bg.png) no-repeat center bottom;
+
+
+
+
